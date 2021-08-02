@@ -1,0 +1,35 @@
+.wallpaper {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  position:absolute
+}
+
+.profilePic {
+  max-width: 7%;
+  max-height: auto;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  position:absolute;
+  top:15.5%;
+  left:46.3%;
+}
+
+.name {
+  margin-top: 13%;
+  text-align: center;
+  color:darkblue;
+  margin-bottom: 0;
+}
+
+.intro {
+  text-align: center;
+  color:darkblue;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 14px;
+}
+
+body{
+  background-color: aliceblue;
+}
