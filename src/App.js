@@ -56,15 +56,15 @@ function App() {
           </div>
         </div>
         <div class="content">
-          <p class="texts"><b>Codeforces Online Competitions and Practices (July 2021)</b>
+          <p class="texts"><b><a href="https://github.com/tianyi-m/contests">Codeforces Online Competitions and Practices (July 2021) (All titles is clickable)</a></b>
             <br/>• In Python, attended a few weekly algorithmic competitions and solved algorithmic problems online using number theory, dynamic programming, and greedy algorithm, and more.
-            <br/><br/><b>ML HHM, Neural Networks and MLP (April 2021)</b>
+            <br/><br/><b><a href="https://github.com/sufian27/Hidden-Markov-Model">ML HHM, Neural Networks and MLP (April 2021)</a></b>
             <br/>• Using python, built a simple Multilayer Perceptron, a two-layer Neural Network and a Hidden Markov Model from scratch. Trained the models on 5 different dateset and achieved 100%, 97%, 94%, 99$, 76% accuracy respectively. Wrote simple prediction and Viterbi prediction methods to predict the next word for a sentence for the Hidden Markov Model.
-            <br/><br/><b>Music FFT Visualizer (March 2021)</b>
+            <br/><br/><b><a href="https://github.com/tianyi-m/music-fft-visualizer">Music FFT Visualizer (March 2021)</a></b>
             <br/>• Using Django, MySQL and JavaScript, implemented a web browser music player that visualize the song by its amplitude using the Hanning function and by its frequency domain through applying Short-Term Fourier Transform to its signal data. 
-            <br/><br/><b>Conway’s Game of Life (March 2021)</b>
-            <br/>• In JavaScript, HTML and CSS, built a web browser game based on Conway’s Game of Life.
-            <br/><br/><b>ProjectAUX (Oct 2020)</b>
+            <br/><br/><b><a href="https://github.com/tianyi-m/Conway-s-Game-of-Life">Conway’s Game of Life (March 2021)</a></b>
+            <br/>• In JavaScript, HTML and CSS, built a web browser game based on Conway’s Game of Life. (Download the repo and click on conwayGameOfLife.html to start playing)
+            <br/><br/><b><a href="https://github.com/tianyi-m/ProjectAUX">ProjectAUX (Oct 2020)</a></b>
             <br/>• In React Expo, developed an app that allow people to listen to music together with friends from anywhere.</p>
         </div>
       </div>
