@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.wallpaper {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.blog-title {
+  padding-top:3%;
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Montserrat';
+}
+
+.blog-content {
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: 'Dosis',serif;
+}

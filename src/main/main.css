@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+@import url(https://fonts.googleapis.com/css?family=Syncopate);
+
 .wallpaper {
   max-width: 100%;
   height: auto;
@@ -5,37 +8,40 @@
 }
 
 .profilePic {
-  max-width: 7%;
+  max-width: 12%;
   max-height: auto;
   border-radius: 50%;
   border: 3px solid #fff;
   position:absolute;
-  top:15.5%;
+  top:50%;
   left:9%;
 }
 
 .name {
-  margin-top: 6%;
-  color:darkblue;
+  padding-top: 8%;
   margin-bottom: 0;
-  margin-left: 47.3%;
-  margin-right: 2%;
+  font-family: 'Syncopate';
+}
+
+.name b{
+  font-size: 32px;
 }
 
 .intro {
   text-align: left;
-  color:darkblue;
   margin-left: 10%;
   margin-right: 50%;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1.5;
+  font-family: 'Dosis',serif;
 }
 
 .texts {
   text-align: left;
-  color:darkblue;
-  font-size: 14px;
+  width: 100%;
+  font-size: 20px;
   line-height: 1.5;
+  font-family: 'Dosis',serif;
 }
 
 *,*::before,*::after{
@@ -51,8 +57,8 @@
   padding-top: 40px;
 }
 .name {
-  color:darkblue;
   margin: 0;
+  font-size: 20px;
 }
 .icons-box{
     display: flex;
@@ -70,10 +76,10 @@
     display: block;
 }
 .icons img {
-    min-height: 20px;
-    min-width: 20px;
-    max-height: 20px;
-    max-width: 20px;
+    min-height: 30px;
+    min-width: 30px;
+    max-height: 30px;
+    max-width: 30px;
     display: block;
     margin: 0;
 }
@@ -83,6 +89,28 @@
   margin-left: 10%;
 }
 
+.blogEntry{
+  display:flex;
+  flex-direction: row;
+  justify-content:flex-start;
+}
+
+.date {
+  text-align: left;
+  width: 100px;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: 'Dosis',serif;
+}
+
+.title {
+  text-align: left;
+  width: 100%;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: 'Dosis',serif;
+}
+
 .category{
   display: flex;
   flex-basis:30%;
@@ -90,20 +118,29 @@
 }
 
 .categoryIcons{
-  min-height: 20px;
-  min-width: 20px;
-  max-height: 20px;
-  max-width: 20px;
+  min-height: 30px;
+  min-width: 30px;
+  max-height: 30px;
+  max-width: 30px;
 }
 
 .categoryName{
   padding-left:5%;
 }
 
-.content{
+.content-codingProject p{
   padding-right:20%;
+  height: 300px;
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.content{
+  width: 2500px;
 }
 
 body{
-  background-color: aliceblue;
+  background-color: ghostwhite;
 }
+
+a:hover,a:visited { color:#000; }
