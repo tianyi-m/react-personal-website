@@ -71,6 +71,12 @@ function Main() {
         </div>
         <div class="content">
           <div class="blogEntry">
+            <p class="date">Nov 13</p>
+            <p class="title"><a style={{"text-decoration":"none"}} href="/motivation">
+            Motivation: to acheive or to enjoy?</a>
+            </p>
+          </div>
+          <div class="blogEntry">
             <p class="date">Aug 28</p>
             <p class="title"><a style={{"text-decoration":"none"}} href="/quietness">
             The Power of Quietness</a>

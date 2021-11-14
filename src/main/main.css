@@ -143,4 +143,4 @@ body{
   background-color: ghostwhite;
 }
 
-a:hover,a:visited { color:#000; }
+a:hover,a:visited,a:link,a:active { color:#000; }
