@@ -3,7 +3,7 @@ import Main from "./main/main"
 import PplPsych from "./blogs/pplPsych"
 import Motivation from "./blogs/motivation"
 
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import {BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   return (

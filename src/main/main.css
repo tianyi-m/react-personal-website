@@ -30,7 +30,7 @@
 .intro {
   text-align: left;
   margin-left: 10%;
-  margin-right: 50%;
+  margin-right: 20%;
   font-size: 20px;
   line-height: 1.5;
   font-family: 'Dosis',serif;
@@ -87,6 +87,7 @@
 .body{
   display:flex;
   margin-left: 10%;
+  flex-direction: column;
 }
 
 .blogEntry{
@@ -111,21 +112,16 @@
   font-family: 'Dosis',serif;
 }
 
-.category{
-  display: flex;
-  flex-basis:30%;
-  align-items: flex-start;
+.category div{
+  float: left;
 }
 
 .categoryIcons{
-  min-height: 30px;
-  min-width: 30px;
-  max-height: 30px;
-  max-width: 30px;
-}
-
-.categoryName{
-  padding-left:5%;
+  min-height: 70px;
+  min-width: 70px;
+  max-height: 70px;
+  max-width: 70px;
+  padding: 15px;
 }
 
 .content-codingProject p{
@@ -133,10 +129,59 @@
   height: 300px;
   width: 100%;
   overflow-y: scroll;
+  background-color: aliceblue;
 }
 
 .content{
-  width: 2500px;
+  font-size: 20px;
+  font-family: 'Dosis',serif;
+}
+
+.footer{
+  margin-right: 10%;
+  font-size: 16px;
+  color:gray;
+  text-align: right;
+  font-family: 'Dosis',serif;
+  padding-top: 150px;
+}
+
+.photos-sqr{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 60%;
+  height: auto;
+}
+
+.photos-v{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: auto;
+  height: 28%;
+}
+
+.photos-h{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 70%;
+  height: auto;
+}
+
+.card-text{
+  font-size: 20px;
+  font-family: 'Dosis',serif;
+  text-align: center;
+}
+
+.photo-row{
+  display:flex;
+  padding-right:10%;
 }
 
 body{
