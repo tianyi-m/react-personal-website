@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-personal-website/static/css/main.b65fddd8.chunk.css",
-    "main.js": "/react-personal-website/static/js/main.223e5d44.chunk.js",
-    "main.js.map": "/react-personal-website/static/js/main.223e5d44.chunk.js.map",
+    "main.js": "/react-personal-website/static/js/main.07e48f91.chunk.js",
+    "main.js.map": "/react-personal-website/static/js/main.07e48f91.chunk.js.map",
     "runtime-main.js": "/react-personal-website/static/js/runtime-main.659654ce.js",
     "runtime-main.js.map": "/react-personal-website/static/js/runtime-main.659654ce.js.map",
     "static/js/2.4314f0ca.chunk.js": "/react-personal-website/static/js/2.4314f0ca.chunk.js",
@@ -14,12 +14,12 @@
     "static/media/cover-4.87236e6b.jpg": "/react-personal-website/static/media/cover-4.87236e6b.jpg",
     "static/media/icon-2.a111d6f0.jpg": "/react-personal-website/static/media/icon-2.a111d6f0.jpg",
     "static/media/instagram-icon.9a9e6f69.png": "/react-personal-website/static/media/instagram-icon.9a9e6f69.png",
-    "static/media/photo-icon.1860af31.png": "/react-personal-website/static/media/photo-icon.1860af31.png"
+    "static/media/photo-icon.da2fcc3f.png": "/react-personal-website/static/media/photo-icon.da2fcc3f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.659654ce.js",
     "static/js/2.4314f0ca.chunk.js",
     "static/css/main.b65fddd8.chunk.css",
-    "static/js/main.223e5d44.chunk.js"
+    "static/js/main.07e48f91.chunk.js"
   ]
 }
